@@ -2,6 +2,8 @@
 
 Wybór organizacji, cele biznesowe i diagram przepływu danych (DFD).
 
+Punkt 4, procesowy opis organizacji według ISO 9001: [punkt-4-opis-procesowy](punkt-4-opis-procesowy/README.md).
+
 ## Punkt 1. Wybór organizacji
 
 | Element | Opis |
